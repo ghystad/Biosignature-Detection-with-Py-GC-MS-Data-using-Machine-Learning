@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: >-
   Using Machine Learning for Biosignature Detection with
-  Pyrolysis Gas Chromatography-Mass Spectrometry data
+  Pyrolysis Gas Chromatography-Mass Spectrometry Data
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -17,7 +17,7 @@ authors:
     affiliation: Purdue University Northwest
     orcid: 'https://orcid.org/0000-0001-9572-1019'
 repository-code: >-
-  https://github.com/ghystad/Biosignature-Detection-using-Machine-Learning-with-pyrolysis-GC-MS-data.git
+  https://github.com/ghystad/Biosignature-Detection-with-Py-GC-MS-Data-using-Machine-Learning.git
 license: GPL-3.0
-version: '1.1'
+version: '1.0.0'
 date-released: '2024-09-14'
