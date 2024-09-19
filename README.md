@@ -1,4 +1,5 @@
-# Biosignature
+# Biosignature Detection with Py GC-MS Data using Machine Learning
+
 # The R-scripts are created for the paper
 
 ### Detecting Biosignatures in Complex Molecular Mixtures from pyrolysis Gas – Chromatography – Mass Spectrometry Data using Machine Learning
