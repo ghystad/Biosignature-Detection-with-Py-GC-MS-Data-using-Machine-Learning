@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: >-
   Using Machine Learning for Biosignature Detection with
-  pyrolysis GC-MS data
+  Pyrolysis Gas Chromatography-Mass Spectrometry data
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
