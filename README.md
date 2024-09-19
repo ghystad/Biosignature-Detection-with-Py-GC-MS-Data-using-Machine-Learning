@@ -14,7 +14,7 @@ Grethe Hystad<sup>1</sup>, H. James Cleaves II <sup>2,3,4</sup>, Collin A. Garmo
  
  *4. Blue Marble Space Institute for Science, Seattle, WA 98104, USA.*
  
- *5. Department of Mathematical Sciences, Purdue University Fort Wayne, Fort Wayne, IN, 46805, USA. *
+ *5. Department of Mathematical Sciences, Purdue University Fort Wayne, Fort Wayne, IN, 46805, USA.*
  
  *6. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA.*
  
