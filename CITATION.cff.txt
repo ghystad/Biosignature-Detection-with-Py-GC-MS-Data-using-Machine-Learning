@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Using Machine Learning for Biosignature Detection with
+  Pyrolysis Gas Chromatography-Mass Spectrometry data
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Grethe
+    family-names: Hystad
+    name-particle: Grethe
+    email: ghystad@pnw.edu
+    affiliation: Purdue University Northwest
+    orcid: 'https://orcid.org/0000-0001-9572-1019'
+license: GPL-3.0-or-later
+version: 1.0.0
+date-released: '2024-09-19'
