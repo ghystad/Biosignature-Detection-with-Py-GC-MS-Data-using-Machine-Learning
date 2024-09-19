@@ -28,7 +28,7 @@ The first 134 pyr-GC-MS data given in "Cleavesetal.pyrGCMSData.zip", can be foun
 Cleaves, H. J. (2023). A robust, agnostic molecular biosignature based on machine learning (Version 1) [Dataset]. OSF. DOI 10.17605/OSF.IO/EMBH8
 
 The next 16 pyr-GC-MS data are given in "NEWOSFData.zip" (currently set to private).
-The R Markdown files can be found in RPubs at:  
+The R Markdown files can be found in RPubs at: https://rpubs.com/ghystad
 
 ## Licence
 The application is released under GNU GPL version 3 license.
