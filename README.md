@@ -4,7 +4,7 @@
 
 ### Detecting Biosignatures in Complex Molecular Mixtures from pyrolysis Gas – Chromatography – Mass Spectrometry Data using Machine Learning
 
-Grethe Hystad<sup>1</sup>, H. James Cleaves II <sup>2,3,4</sup>, Collin A. Garmon<sup>1</sup>, Michael L. Wong<sup>5,6</sup>, Anirudh Prabhu<sup>5</sup>, George D. Cody<sup>5</sup>, and Robert M. Hazen<sup>5</sup>
+Grethe Hystad<sup>1</sup>, H. James Cleaves II <sup>2,3,4</sup>, Collin A. Garmon<sup>5</sup>, Michael L. Wong<sup>6,7</sup>, Anirudh Prabhu<sup>6</sup>, George D. Cody<sup>6</sup>, and Robert M. Hazen<sup>6</sup>
 
  *1. Department of Mathematics and Statistics, Purdue University Northwest, Hammond, IN, 46323, USA.*
  
@@ -14,9 +14,11 @@ Grethe Hystad<sup>1</sup>, H. James Cleaves II <sup>2,3,4</sup>, Collin A. Garmo
  
  *4. Blue Marble Space Institute for Science, Seattle, WA 98104, USA.*
  
- *5. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA.*
+ *5. Department of Mathematical Sciences, Purdue University Fort Wayne, Fort Wayne, IN, 46805, USA. *
  
- *6. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.*
+ *6. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA.*
+ 
+ *7. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.*
 
 ## Introduction
 Three-dimensional (scan number /mass-to-charge ratio/intensity) data from biotic and abiotic samples are obtained by pyrolysis-gas chromatography mass spectrometry. The R-scripts created are for preprocessing these data and to use machine learning to predict whether a sample is biotic or abiotic. Nested resampling is used to obtain an estimate for the prediction performance of the model. The pattern of features that are "important" in distinguishing the abiotic from the biotic species are then determined and shown graphically.
