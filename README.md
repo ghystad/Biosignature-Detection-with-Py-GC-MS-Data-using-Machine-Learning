@@ -25,11 +25,10 @@ Three-dimensional (scan number /mass-to-charge ratio/intensity) data from biotic
 The following machine learning classification methods are used: random forest, logistic regression with elastic net penalty, support vector machines (SVM), and eXtreme Gradient Boosting (XGBoost). The Benjamini-Hochberg procedure is used for multiple hypothesis testing. 
 
 ## Data
-The first 134 pyr-GC-MS data given in "Cleavesetal.pyrGCMSData.zip", can be found at https://accounts.osf.io/login?service=https://osf.io/embh8/ with reference:
+The first 150 pyr-GC-MS data given in "Cleavesetal.pyrGCMSData.zip", can be found at https://accounts.osf.io/login?service=https://osf.io/embh8/ with reference:
 
 Cleaves, H. J. (2023). A robust, agnostic molecular biosignature based on machine learning (Version 1) [Dataset]. OSF. DOI 10.17605/OSF.IO/EMBH8
 
-The next 16 pyr-GC-MS data are given in "NEWOSFData.zip" (currently set to private).
 The R Markdown files can be found in RPubs at: https://rpubs.com/ghystad
 
 ## Licence
