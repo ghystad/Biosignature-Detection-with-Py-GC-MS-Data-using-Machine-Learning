@@ -31,7 +31,6 @@ Cleaves, H. J. (2023). A robust molecular biosignature based on machine learning
 
 The 16 new samples are provided in the folder named "HystadEtAl16newFiles.zip". The other 134 samples are provided in the folder named "Cleavesetal.pyrGCMSData.zip".
 
-The R Markdown files can be found in RPubs at: https://rpubs.com/ghystad
 
 ## Licence
 The application is released under GNU GPL version 3 license.
