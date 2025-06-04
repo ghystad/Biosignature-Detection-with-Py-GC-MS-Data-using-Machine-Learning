@@ -2,7 +2,7 @@
 
 ## The R-scripts are created for the paper
 
-### Detecting Biosignatures in Complex Molecular Mixtures from pyrolysis Gas – Chromatography – Mass Spectrometry Data using Machine Learning
+### Detecting Biosignatures in Complex Molecular Mixtures from pyrolysis Gas Chromatography – Mass Spectrometry Data using Machine Learning
 
 Grethe Hystad<sup>1</sup>, H. James Cleaves II <sup>2,3,4</sup>, Collin A. Garmon<sup>5</sup>, Michael L. Wong<sup>6,7</sup>, Anirudh Prabhu<sup>6</sup>, George D. Cody<sup>6</sup>, and Robert M. Hazen<sup>6</sup>
 
